@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell Matches snapshot 1`] = `
+<body>
+  <div>
+    <button
+      class="cell"
+    >
+      <span
+        class="cell--contet"
+      />
+    </button>
+  </div>
+</body>
+`;

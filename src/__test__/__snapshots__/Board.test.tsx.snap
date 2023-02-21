@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board Matches snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="board"
+    >
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+      <button
+        class="cell"
+      >
+        <span
+          class="cell--contet"
+        />
+      </button>
+    </div>
+  </div>
+</body>
+`;

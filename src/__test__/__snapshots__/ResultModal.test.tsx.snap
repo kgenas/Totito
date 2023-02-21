@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultModal Matches snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="modal-overlay"
+    >
+      <div
+        class="game-result-modal"
+      >
+        <div
+          class="result-container"
+        >
+          <div
+            class="winner-container"
+          >
+            <span>
+              It is a tie
+            </span>
+          </div>
+        </div>
+        <div
+          class="new-game-container"
+        >
+          <button
+            class="new-game-container__button"
+          >
+            Start New Game
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
